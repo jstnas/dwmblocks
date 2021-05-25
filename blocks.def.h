@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"",	"/home/iota/.local/bin/blocks/ip enp4s0",	10,				31},
 	//{"",	"/home/iota/.local/bin/blocks/ip wlp5s0",	10,				31},
 	{"",	"/home/iota/.local/bin/blocks/packages",	0,				31},
-	{"",	"/home/iota/.local/bin/blocks/rss",			60,				5},
+	//{"",	"/home/iota/.local/bin/blocks/rss",			60,				5},
 	{"",	"/home/iota/.local/bin/blocks/ram",			2,				31},
 	{"",	"/home/iota/.local/bin/blocks/cpu",			2,				2},
 	{"",	"/home/iota/.local/bin/blocks/temperature",	5,				31},
