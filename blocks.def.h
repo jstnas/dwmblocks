@@ -3,8 +3,8 @@ static const Block blocks[] = {
 	//Icon	Command										Update Interval	Update Signal
 	{"",	"/home/iota/.local/bin/blocks/music",		2,				1},
 	//{"",	"/home/iota/.local/bin/blocks/bluetooth",	10,				31},
-	{"",	"/home/iota/.local/bin/blocks/ip eth0",		10,				31},
-	{"",	"/home/iota/.local/bin/blocks/ip wlp5s0",	10,				31},
+	{"",	"/home/iota/.local/bin/blocks/ip enp4s0",	10,				31},
+	//{"",	"/home/iota/.local/bin/blocks/ip wlp5s0",	10,				31},
 	{"",	"/home/iota/.local/bin/blocks/packages",	0,				31},
 	{"",	"/home/iota/.local/bin/blocks/rss",			60,				5},
 	{"",	"/home/iota/.local/bin/blocks/ram",			2,				31},
